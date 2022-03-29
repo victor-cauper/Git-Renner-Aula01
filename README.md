@@ -3,4 +3,6 @@ Repositório criado com propósito de aprendizado.
 
 
 O abaixo foi editado pelo VIM, dentro do GIT Bash.
-Este projeto é um projeto de teste. 
+Este projeto é um projeto de teste.
+
+Teste v2.
